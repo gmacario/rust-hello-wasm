@@ -1,0 +1,6 @@
+[package]
+name = "rust-hello-wasm"
+version = "0.1.0"
+authors = ["Gianpaolo Macario <gmacario@gmail.com>"]
+
+[dependencies]
